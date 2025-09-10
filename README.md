@@ -104,8 +104,10 @@ It includes **PostgreSQL schema design, sample data, and queries** for insights.
 
 
 ---
-[Data and Queries]([url](https://docs.google.com/document/d/1FaQ0usmNiUX7BjslhcsSC28DMqqQSODXuBmpIiFc4J8/edit?usp=sharing)) 
 ##  Queries
+Data and Queries Link
+https://docs.google.com/document/d/1FaQ0usmNiUX7BjslhcsSC28DMqqQSODXuBmpIiFc4J8/edit?usp=sharing
+
 
 ### 1.Most-Ordered Restaurant
 
