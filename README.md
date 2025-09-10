@@ -80,7 +80,7 @@ The objective of this case study was to:
 
 * **Documentation File:** Product Dissection – Zomato (this document).
 * **ER Schema Design:** Entity relationship diagram outlining users, restaurants, orders, payments, and reviews.
-* **SQL Scripts (Optional):** To simulate schema creation and queries for insights.
+* **SQL Scripts:** To simulate schema creation and queries for insights.
 
 ---
 
