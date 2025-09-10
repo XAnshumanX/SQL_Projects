@@ -104,10 +104,10 @@ It includes **PostgreSQL schema design, sample data, and queries** for insights.
 
 
 ---
-
+[Data and Queries]([url](https://docs.google.com/document/d/1FaQ0usmNiUX7BjslhcsSC28DMqqQSODXuBmpIiFc4J8/edit?usp=sharing)) 
 ##  Queries
 
-### 1. Top 5 Most-Ordered Restaurants
+### 1.Most-Ordered Restaurant
 
 ```sql
 SELECT r.Name AS Restaurant, COUNT(o.OrderID) AS Total_Orders
@@ -116,7 +116,7 @@ JOIN Restaurants r ON o.RestaurantID = r.RestaurantID
 WHERE o.Order_Status = 'Delivered'
 GROUP BY r.Name
 ORDER BY Total_Orders DESC
-LIMIT 5;
+LIMIT 1;
 ```
 
 ### 2. Average Delivery Partner Ratings
